@@ -1,2 +1,2 @@
-Some Content
+Some Content.
 Another line
